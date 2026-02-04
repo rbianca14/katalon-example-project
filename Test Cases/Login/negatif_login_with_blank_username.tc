@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>negatif_login_with_blank_username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3c002b0-7469-47e5-b63f-8f9b4d942bea</testCaseGuid>
+</TestCaseEntity>

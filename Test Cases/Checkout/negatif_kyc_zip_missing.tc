@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>negatif_kyc_zip_missing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba0daaef-8b3e-4002-9b24-471eafc29e5f</testCaseGuid>
+</TestCaseEntity>
