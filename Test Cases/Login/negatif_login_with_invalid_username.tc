@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>negatif_login_with_invalid_username</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>84aac6e4-57f4-4793-8a60-dd639704bb31</testCaseGuid>
-</TestCaseEntity>

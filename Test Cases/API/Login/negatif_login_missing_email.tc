@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>negatif_login_missing_email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d493c54f-d469-478d-a325-3f789d15ccbc</testCaseGuid>
+</TestCaseEntity>
