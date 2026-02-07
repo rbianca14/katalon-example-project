@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>positif_checkout_success</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6e768a02-7c9e-4e98-928c-46875c3fae1b</testCaseGuid>
-</TestCaseEntity>

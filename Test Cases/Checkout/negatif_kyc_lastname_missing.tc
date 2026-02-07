@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>negatif_kyc_lastname_missing</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>eb8b0a1e-6933-4bf0-a613-7b54d8bf0471</testCaseGuid>
-</TestCaseEntity>

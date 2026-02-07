@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>positif_sort_ascending_price</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>61400d71-c457-406b-9819-9cf560684679</testCaseGuid>
-</TestCaseEntity>

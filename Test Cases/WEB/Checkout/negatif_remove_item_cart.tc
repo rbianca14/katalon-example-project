@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>negatif_remove_item_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>160aa80f-005b-4997-b3af-e8a8569c7cb2</testCaseGuid>
+</TestCaseEntity>
