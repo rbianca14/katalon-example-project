@@ -36,16 +36,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/Login/field_username'), '')
+WebUI.setText(findTestObject('Object Repository/Login/field_username'), 'standard_user')
 
-WebUI.setText(findTestObject('Object Repository/Login/field_password'), 'secret_sauce')
+WebUI.setText(findTestObject('Object Repository/Login/field_password'), '')
 
 WebUI.click(findTestObject('Object Repository/Login/btn_login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login/error_message'), 'Epic sadface: Username is required')
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Login/error_message'), 'Epic sadface: Password is required')
