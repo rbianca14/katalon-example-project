@@ -30,3 +30,21 @@ The main goal of this project is to practice and implement various automation te
 1. Clone this repository:
    ```bash
    git clone [https://github.com/rbianca14/katalon-example-project.git](https://github.com/rbianca14/katalon-example-project.git)
+2. Open Project in Katalon:
+   - Launch Katalon Studio.
+   - Click on File > Open Project.
+   - Browse to the cloned folder and select the Sauce Demo.prj file.
+3. Restore Dependencies (If prompted):
+   - Let Katalon build the project indices and load the keywords.
+4. Running a Test Case:
+   - Go to the Tests Explorer on the left sidebar.
+   - Navigate to Test Cases > Login (or any other folder).
+   - Double-click on a Test Case to open it.
+   - Click the Run button (top toolbar) or press Ctrl + R.
+5. Running a Test Suite (Recommended for DDT):
+   - Navigate to the Test Suites folder in Tests Explorer.
+   - Open a specific Suite (e.g., Regression Suite).
+   - Click the Run button. This will execute multiple tests and generate a report.
+6. View Results:
+   - Once execution finishes, check the Log Viewer at the bottom to see step-by-step results.
+   - Detailed reports can be found in the Reports folder within the project directory.
