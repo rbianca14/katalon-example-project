@@ -1,4 +1,4 @@
-# Sauce Demo - Automation Practice Project
+# katalon-example-project - Automation Practice Project
 
 This repository contains an automated testing project for the [Sauce Demo](https://www.saucedemo.com/) website. It is built using **Katalon Studio** as part of my automation testing learning journey.
 
