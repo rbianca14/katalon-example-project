@@ -1,6 +1,6 @@
 # katalon-example-project - Automation Practice Project
 
-This repository contains an automated testing project for the [Sauce Demo](https://www.saucedemo.com/) website. It is built using **Katalon Studio** as part of my automation testing learning journey.
+This repository contains an automated testing project for the [Sauce Demo](https://www.saucedemo.com/) website and [req](https://app.reqres.in/) API . It is built using **Katalon Studio** as part of my automation testing learning journey.
 
 ## 🚀 Project Overview
 The main goal of this project is to practice and implement various automation testing techniques, including:
