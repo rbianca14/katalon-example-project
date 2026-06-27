@@ -35,6 +35,4 @@ WebUI.click(findTestObject('Object Repository/Dashboard/btn_checkout_continue'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Dashboard/error_kyc'), 'Error: Last Name is required')
 
-WebUI.takeScreenshot()
-
 WebUI.closeBrowser()
